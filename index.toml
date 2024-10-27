@@ -30,6 +30,11 @@ hash = "73ee1ba14565ffc43c813b6f3d5ef716ee458f93d9bb5407368358e8355d1e20"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "8d3bd79b5dcb781507857f857b2a0c78cd31ea489f19444ab63cf429d2a64d03"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
 metafile = true
@@ -60,6 +65,16 @@ hash = "43d7fd09553ecf35b07ce2fe7958eaf4947b8fe4219afa25c99e42cea75fcfab"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "501fd33b263cd55ffb8d72875ece5a5b107148cf98509961ad09c7fbfb98c4d3"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
 metafile = true
@@ -80,8 +95,18 @@ hash = "de94de03e062c848d1ad3508be53138f963041acf4eb279c45cea678af25a71e"
 metafile = true
 
 [[files]]
+file = "mods/libipn.pw.toml"
+hash = "40d28830dafd312cbff5e6c4cf549f85fdcd52588c4bafe60d9d53a81208131e"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "8edae1a42bd1ebe3be34b1a0861f684558865315d16b2d94b971c7029fd9efce"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "88b5510e39cdc8ca356d54bc436edc777d5eafc03203a8724784183408fe6792"
 metafile = true
 
 [[files]]
