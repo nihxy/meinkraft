@@ -50,6 +50,11 @@ hash = "ef29ef1e0debdb08b5b24413c55f6adc7a16aa6a4d85881c5f6e21903279cd25"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "447ec530620e3c0da62316cb3358e43c15132084aab22ba992fefac199ca92a9"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "37d7edaad90d07474bc4f2a588f7602c5d40631e6a0a3a54363e6bd787a118e4"
 metafile = true
@@ -155,6 +160,11 @@ hash = "b5b80fb144862325aa9e140d1bf1079bbbea481f305f4baf05341469773e675c"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "3254ff5ef416cb7d2b4c28b8ea169c17c7844750c8b96dfaef19527707dbc529"
+metafile = true
+
+[[files]]
 file = "mods/text-placeholder-api.pw.toml"
 hash = "85bd4bc47bb93e0889f03b36c68211442748ca0a7329dadf26bd4389d44bbebb"
 metafile = true
@@ -185,6 +195,6 @@ hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
 
 [[files]]
-file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "edab82200ec2e06de93b8ae1e86bb844deb9feb64f9d4e0c7cbf5f01f5d87fff"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "e6996ecb68a6c690558f589e7194d7df23a186ab8b75f0f67cfed069a280470b"
 metafile = true
