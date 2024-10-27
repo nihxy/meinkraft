@@ -60,11 +60,6 @@ hash = "43d7fd09553ecf35b07ce2fe7958eaf4947b8fe4219afa25c99e42cea75fcfab"
 metafile = true
 
 [[files]]
-file = "mods/geyser.pw.toml"
-hash = "d4f95a2ba4a022ec1cba38aa54cec7f13b3c6b1950dba7d4b3802e219efaaebe"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
 metafile = true
