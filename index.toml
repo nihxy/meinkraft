@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "31f59e69634849451d756451fc3372fd2f6e17202b2fbeb451cd764d3bbbeede"
+hash = "43d7fd09553ecf35b07ce2fe7958eaf4947b8fe4219afa25c99e42cea75fcfab"
 metafile = true
 
 [[files]]
@@ -100,6 +100,11 @@ hash = "1af6a9ccf69839f89e0de6e54ab9966cd833b1b5e0cae8c037de91f4c3329709"
 metafile = true
 
 [[files]]
+file = "mods/packed-up-backpacks.pw.toml"
+hash = "0f8507b0b5421e42940036a8f5f5ffdb85e4722cc73d81fab1e8d78aa9c507de"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "0d2d77fcdc30173b43c4eace4c3769c4697901c0f4e9a8cd7d6aa9d4cb9c5a2f"
 metafile = true
@@ -117,6 +122,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9b37d4585813c3287bae237670361411bfc6ab63fa5139bdbd757d4c3733fd30"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "b5b80fb144862325aa9e140d1bf1079bbbea481f305f4baf05341469773e675c"
 metafile = true
 
 [[files]]
