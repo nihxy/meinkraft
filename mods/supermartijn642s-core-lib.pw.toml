@@ -1,6 +1,6 @@
 name = "SuperMartijn642's Core Lib"
 filename = "supermartijn642corelib-1.1.17c-fabric-mc1.21.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
