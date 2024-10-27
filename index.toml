@@ -1,0 +1,165 @@
+hash-format = "sha256"
+
+[[files]]
+file = "exportClient.sh"
+hash = "0652f1e85434b86a40b92eb33ce81cb406c45c137e65e7f52affd5948ed6a947"
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "09beb857309e11fd23fb3ab526f34c3b8ba2d4e44426e4591626a1a24e94db45"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "884e3a49456d46499dc5afe03163d6809b7007f8e50530a9181cc7c6d159281b"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "f20276fec6414f45de66b4761005cef82dca5dd45c27a5ae635ce61a6d0a7fa5"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "f57e6f4e71ef4e4f691c604a079effa611f3c0a1c0a535ec464e5a947b34abdf"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "73ee1ba14565ffc43c813b6f3d5ef716ee458f93d9bb5407368358e8355d1e20"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "c8e5a828790c21fe78de966efc78c2790843780c62436108fc50a109b087b247"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "ef29ef1e0debdb08b5b24413c55f6adc7a16aa6a4d85881c5f6e21903279cd25"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "37d7edaad90d07474bc4f2a588f7602c5d40631e6a0a3a54363e6bd787a118e4"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "0651ae9d247338cb7ea9aa258a0bac2b8148c51d6d4bcfa8e6594eea363ea5a3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "31f59e69634849451d756451fc3372fd2f6e17202b2fbeb451cd764d3bbbeede"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "09f0767f85477c012d6297dc0564b3575cd762d96b99821917eca2c1472efc3f"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "4b717619c6d71b9ea623fcf6b8648b59daf410542500ef5215a0a5adaa0ef99c"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "de94de03e062c848d1ad3508be53138f963041acf4eb279c45cea678af25a71e"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "8edae1a42bd1ebe3be34b1a0861f684558865315d16b2d94b971c7029fd9efce"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4c55eb1298bc0f186a47b22436feeb0a20fd344d56ad6eb30b482a902c74a5f7"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "1af6a9ccf69839f89e0de6e54ab9966cd833b1b5e0cae8c037de91f4c3329709"
+metafile = true
+
+[[files]]
+file = "mods/packed-up-backpacks.pw.toml"
+hash = "677678ffc3e4b387822886001500978bc0f0009c87a86aa4b3c0df94d94bc5af"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "0d2d77fcdc30173b43c4eace4c3769c4697901c0f4e9a8cd7d6aa9d4cb9c5a2f"
+metafile = true
+
+[[files]]
+file = "mods/retino.pw.toml"
+hash = "91e31d669a451bae1e205c442aa2409508c9c0939a01bfa56f1257f87b20c0d1"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "bcdf6f50913285d4af3c872c4f6df224713f60c3dd06dbcaff009b38b61238c1"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "9b37d4585813c3287bae237670361411bfc6ab63fa5139bdbd757d4c3733fd30"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "7f192d34fb74b6e6a572dd43092022c0134b5d73d792bee56f90b2eb55f52f60"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "52d809b7f71d903f26bdec9973f6fdacd42644e62be187d68ed3185c61147e9c"
+metafile = true
+
+[[files]]
+file = "mods/text-placeholder-api.pw.toml"
+hash = "85bd4bc47bb93e0889f03b36c68211442748ca0a7329dadf26bd4389d44bbebb"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "1db6a6af8b7166746e1a6eb7025de75738f56c528449e9a8d47d923c8f5747a3"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "9931b0160d974dd22abe5fc320a61ac512315c89c6e7d8a6829474adbf979b95"
+metafile = true
+
+[[files]]
+file = "mods/your-items-are-safe.pw.toml"
+hash = "f7619caac8f06c310b3450649d78a5d047394c980546ef82ed29f7b105f1ee28"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "f4a9a98cd10ccd11d790e1c264ae2b4110f38f9a7464517d1eb4eea01701c455"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "edab82200ec2e06de93b8ae1e86bb844deb9feb64f9d4e0c7cbf5f01f5d87fff"
+metafile = true

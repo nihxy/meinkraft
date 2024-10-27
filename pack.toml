@@ -1,0 +1,13 @@
+name = "MeinKraft"
+author = "nih"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "05132538902db7f9a0df884c0131e960f31598abd587386eaa38f493a2f9603e"
+
+[versions]
+fabric = "0.16.7"
+minecraft = "1.21.1"
