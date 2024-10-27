@@ -15,6 +15,11 @@ hash = "884e3a49456d46499dc5afe03163d6809b7007f8e50530a9181cc7c6d159281b"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "b21831653ad0d8f98f79ee3f48d65ceaa779ce1fc77035592b1494e444f54651"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "f20276fec6414f45de66b4761005cef82dca5dd45c27a5ae635ce61a6d0a7fa5"
 metafile = true
@@ -72,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
 metafile = true
 
 [[files]]
@@ -160,8 +170,8 @@ hash = "b5b80fb144862325aa9e140d1bf1079bbbea481f305f4baf05341469773e675c"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "3254ff5ef416cb7d2b4c28b8ea169c17c7844750c8b96dfaef19527707dbc529"
+file = "mods/terrablender.pw.toml"
+hash = "f65d67f5c22e26e9defa90646020f02a5d83a2f953109ec9179e1cc728bfff16"
 metafile = true
 
 [[files]]
