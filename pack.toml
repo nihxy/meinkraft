@@ -1,12 +1,12 @@
 name = "MeinKraft"
 author = "nih"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9957f264c46d0e87b7deaf0670d9b217509bb5ac9eadd2b2ea9841965692eb44"
+hash = "961d4eb688a85568e91e5b3aa427de229ed9a982cd3e01bca512b155db929f31"
 
 [versions]
 fabric = "0.16.7"
