@@ -90,21 +90,6 @@ hash = "ef29ef1e0debdb08b5b24413c55f6adc7a16aa6a4d85881c5f6e21903279cd25"
 metafile = true
 
 [[files]]
-file = "mods/diagonal-fences.pw.toml"
-hash = "c99e4e41ff82f7562d382307913ce94377e078b961da08736fec80efbb21f614"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-walls.pw.toml"
-hash = "58079f9d6d5bfb028b22587bea5292ce39f5c89235d528a8617ecff3feabbdd0"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-windows.pw.toml"
-hash = "d9c591e2bfa0cae84cac0b2b1c92a2bbd6c74593e3f6fb514cf2ffa6a974bedc"
-metafile = true
-
-[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "f9719686674d1df3d01b4970175313d1abe987b97f3507b6cdc55724346139ca"
 metafile = true
@@ -132,11 +117,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
-metafile = true
-
-[[files]]
-file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "f0d7cf1552c8e3027b1f2f0adbb89b8adc0c64aef8c4d0d2468398cb0c166660"
 metafile = true
 
 [[files]]
@@ -287,11 +267,6 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "0d2d77fcdc30173b43c4eace4c3769c4697901c0f4e9a8cd7d6aa9d4cb9c5a2f"
-metafile = true
-
-[[files]]
-file = "mods/polymorph.pw.toml"
-hash = "40e562a5740782fcade12bf5f370da4a1b01692868946eafb0252237e73c9a90"
 metafile = true
 
 [[files]]
