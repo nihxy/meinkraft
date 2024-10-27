@@ -3,11 +3,11 @@ filename = "supermartijn642corelib-1.1.17c-fabric-mc1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6a7e33131d1747c50d2485695eefa2575f6a5eb2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/rOUBggPv/versions/holOgWrB/supermartijn642corelib-1.1.17c-fabric-mc1.21.jar"
+hash-format = "sha512"
+hash = "d17fbe73ddcd91feea17815aac1a69bf2795ffac300c6c79c7212e8c2c9b441d54180171e9a669e92f1a9b2df4ceaabd03ef19fd7094993314a174999653f7cb"
 
 [update]
-[update.curseforge]
-file-id = 5713667
-project-id = 454372
+[update.modrinth]
+mod-id = "rOUBggPv"
+version = "holOgWrB"

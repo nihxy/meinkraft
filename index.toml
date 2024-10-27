@@ -121,12 +121,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "c702e025298d58a90705f502abad07bb03e1dcc22733c95e1379665aa149918e"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "dd96fac93e75a6a58feb82ac12ebd6155ec1ee305a2726e0ab05c22eeea79476"
+hash = "b5b80fb144862325aa9e140d1bf1079bbbea481f305f4baf05341469773e675c"
 metafile = true
 
 [[files]]
