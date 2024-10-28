@@ -1,0 +1,13 @@
+name = "Smarter Farmers (farmers replant)"
+filename = "smarterfarmers-1.21-2.1.4-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bh6ZOMvp/versions/DpwpDFay/smarterfarmers-1.21-2.1.4-fabric.jar"
+hash-format = "sha512"
+hash = "1622f57029e8411c3fe95ed070d1592123d87b2038aa1f60c1fdb2b53c653edf0362deedf224106d29e77c7c5a47237d7efe0d886e96f6c89126c4d580b962f4"
+
+[update]
+[update.modrinth]
+mod-id = "Bh6ZOMvp"
+version = "DpwpDFay"

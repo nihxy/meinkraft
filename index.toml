@@ -155,6 +155,11 @@ hash = "4b717619c6d71b9ea623fcf6b8648b59daf410542500ef5215a0a5adaa0ef99c"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "67ad5c2acf84ac2657b079a341b2771012d5050cbd900f423ded03404efc5de2"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "de94de03e062c848d1ad3508be53138f963041acf4eb279c45cea678af25a71e"
 metafile = true
@@ -230,6 +235,11 @@ hash = "a29fab08f6f5a8f7b00c93032d6f6bc34ca6b1cf0afe2de943d13c2af9fc39af"
 metafile = true
 
 [[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "2367014a651540147f30f424439d2e9f8eabfea997cc7b8b4d41785182278498"
+metafile = true
+
+[[files]]
 file = "mods/macaws-stairs.pw.toml"
 hash = "7f1fe69372a99064783e53623232be435fc876f9843cffb1d5aa67161a1248e4"
 metafile = true
@@ -247,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4c55eb1298bc0f186a47b22436feeb0a20fd344d56ad6eb30b482a902c74a5f7"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "60a6dda81ba753ef71875413f0a72f5f3fbd5e78dc485fdc41a3d2052fb7a5e9"
 metafile = true
 
 [[files]]
@@ -285,8 +300,18 @@ hash = "91e31d669a451bae1e205c442aa2409508c9c0939a01bfa56f1257f87b20c0d1"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "006ae89bec9b6d2eb2fdccdedb5e2bf033227e51b0eadd1abb7b68dd4ac91d45"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2f9c6ff0b769aff81fb5c6f9231d0e9583a52f5f7cc5177a741a539a96bd8fec"
+metafile = true
+
+[[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "21257495b4b36f6ddb6a2fa0312067ada3eb38272cb08ce31633c83c73311e19"
 metafile = true
 
 [[files]]
@@ -297,6 +322,16 @@ metafile = true
 [[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "53ff34a5821f588c428221b6e7104d3e4fcf70ab7683c241e4149a4816251fed"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "8695734b594873a524856d822ed2db3ddbd96a63d0bfa1d3f53fc55db3fc816e"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "cbd24cdc5e83c7f687d56ed15b79f0e4ea890d9e825f747357e22831f67f4f0f"
 metafile = true
 
 [[files]]
