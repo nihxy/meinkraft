@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "exportClient.sh"
-hash = "d61e606a04d812bb18dc7429e7030bf72f5576e389629599dfee8e859e23fc88"
+hash = "4a2ea6cf32a281babe047d8b7d88166a13878b0674fcd8e01b7fae2ae90fbc58"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
