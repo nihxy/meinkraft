@@ -1,12 +1,12 @@
-name = "MeinKraft"
+name = "FairyRome"
 author = "nih"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fdcc6f2fd85ba9b447e53beab94631e27b3a6274548966857f6d420369606923"
+hash = "b9f1e218c8d33678f3d55f1d534905ff0f0e15a992d91c13d70cc99b3a07fced"
 
 [versions]
 fabric = "0.16.7"
